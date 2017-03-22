@@ -5,7 +5,7 @@ this is the simple project which will show you how to get the json data from loc
 
 <br>
 
-<h4>Here first you need to send your hole directory (the flder which contains the files for ex: folder name is JSON)  This contains all files means you have to send the folder to localhost then only you can access the json file...</h4>
+<h4>Here first you need to send your whole directory (the flder which contains the files for ex: folder name is JSON)  This contains all files means you have to send the folder to localhost then only you can access the json file...</h4>
 
 <br>
 
